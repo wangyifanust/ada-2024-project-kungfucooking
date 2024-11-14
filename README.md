@@ -5,7 +5,7 @@ Methodology:
 
 1. **Filtering**: Extract relevant videos by identifying conspiracy theory-related keywords (e.g., "QAnon," "Deep State") within video titles, descriptions, and tags.
 
-2. **Group Comparison**: Divide the videos into two distinct groups—"Conspiracy Theory" and "Non-Conspiracy Theory"—to analyze the differences in engagement metrics such as likes, dislikes, and view counts.
+2. **Group Comparison**: Divide the videos into two distinct groups—"Conspiracy Theory" and "Non-Conspiracy Theory"—to analyze the differences in engagement metrics such as likes, dislikes, like/dislike ratio, view count/video count ratio, likes/video counts ratio, and view counts.
 
 3. **Statistical Testing**: Conduct statistical analyses to determine whether the interaction differences between the two groups are statistically significant.
 
